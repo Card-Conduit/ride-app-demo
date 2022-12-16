@@ -1,4 +1,4 @@
-# InterNACHI “Ride App” Exercise
+# Card Conduit “Ride App” Exercise
 
 This is a sample Laravel application that is meant to be used for a coding exercise.
 There are two steps to this exercise:
@@ -18,14 +18,10 @@ to us as your completed exercise.
 
 ## Notes on Code Style/Preferences
 
-Each team has its own code style and preferences that inform how best to approach
-a given task. For example, some Laravel applications rely heavily on events and 
-listeners, or others favor action objects.
+Each team has its own code style and preferences that inform how best to approach a given task. 
 
-In general, InterNACHI sticks to standard Laravel and RESTful conventions as much
-as possible. We avoid events/observers, and rely on controllers and form requests
-where appropriate. We use types to our advantage, but not when they make code worse
-to work with. You won’t find a `private` or `final` keyword anywhere in our code.
+In general, at Card Conduit we stick to standard Laravel and RESTful conventions as much
+as possible.  Simple, readable code is the ideal. We want to solve complex problems with plain, expressive solutions.
 
 ## The Tasks
 
